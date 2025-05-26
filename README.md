@@ -4,7 +4,7 @@ MCP Weather is a MCP server to allow LLMs to retrive data about weather dinamica
 
 ## Architecture
 
-<img width="230" alt="image" src="https://github.com/user-attachments/assets/33f899fb-3999-4ff5-b37f-57740132d874" />
+<img width="430" alt="image" src="https://github.com/user-attachments/assets/33f899fb-3999-4ff5-b37f-57740132d874" />
 
 
 

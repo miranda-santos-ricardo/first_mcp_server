@@ -12,7 +12,7 @@ MCP Weather is a MCP server to allow LLMs to retrive data about weather dinamica
 - Pass the Latitude and longitude and receive the information about:
   - current weather
   - forecast
-- Powered by OpenAI's GPT-4 + custom prompts
+- Powered by Claude + Python code
 
 ## 📦 Tech Stack
 - Python
